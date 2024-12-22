@@ -1,7 +1,7 @@
-# AI-Web-Scrapper
+# AI-Web-Scraper
 
 ## Overview
-The **AI-Web-Scrapper** is a Streamlit-based application that allows users to scrape content from a web page, extract and clean the content, and query specific information using natural language parsing. This tool is ideal for extracting structured data and insights from unstructured web content.
+The **AI-Web-Scraper** is a Streamlit-based application that allows users to scrape content from a web page, extract and clean the content, and query specific information using natural language parsing. This tool is ideal for extracting structured data and insights from unstructured web content.
 
 ## Features
 - **URL Input:** Enter any valid website URL to scrape.
