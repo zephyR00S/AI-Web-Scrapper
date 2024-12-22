@@ -83,8 +83,7 @@ AI-Web-Scrapper/
 ## Acknowledgments
 - [Streamlit](https://streamlit.io) for the interactive UI.
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) for web scraping.
-- [Ollama](https://ollama.ai) for natural language parsing (if applicable).![Screenshot (156)](https://github.com/user-attachments/assets/41d45a14-5646-4932-aa20-a76a0324ae5c)![Screenshot (157)](https://github.com/user-attachments/assets/e47d492e-852f-4185-87cf-d09bfc1d9bc7)
-
+- [Ollama](https://ollama.ai) for natural language parsing (if applicable).
 
 
 ## Screenshots
